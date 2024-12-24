@@ -1,4 +1,4 @@
-Here’s a description of a CNC (Computer Numerical Control) Writing Machine and its components:
+
 
 ---
 
