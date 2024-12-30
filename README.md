@@ -43,7 +43,6 @@ A **CNC Writing Machine** is an automated system that uses precise computer-cont
 10. **Sensors and Limit Switches**  
     - Detect the limits of machine movement to prevent overtravel and damage.
     - Enhance operational safety and precision.
-
 ---
 
 ### **Applications**  
