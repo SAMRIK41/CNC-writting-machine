@@ -2,7 +2,6 @@
 #include <Stepper.h>
 
 #define LINE_BUFFER_LENGTH 512
-
 // Servo position for Up and Down 
 const int penZUp = 80;
 const int penZDown = 40;
