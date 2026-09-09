@@ -1,4 +1,8 @@
 ## **CNC Writing Machine: Overview**  
+
+<p align="center">
+  <img src="https://res.cloudinary.com/ddcdrrav8/image/upload/v1788940838/WhatsApp_Image_2026-09-09_at_1.21.30_PM_pbpq90.jpg" width="800">
+</p>
 A **CNC Writing Machine** is an automated system that uses precise computer-controlled movements to create text, patterns, or designs on various surfaces such as paper, wood, metal, or plastic. It combines the functionality of traditional engraving or writing tools with modern CNC technology, offering high accuracy, repeatability, and flexibility. This type of machine is widely used in industries for custom branding, engraving, or artistic purposes.
 
 ---
